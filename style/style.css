@@ -159,7 +159,7 @@ ul#menu li.current a
   padding: 6px 22px 15px 22px;}
 
 ul#menu li.current a
-{ background: #fff;
+{ background: #ccc;
   border: 1px solid #ddd;
   border-bottom: 0;
   color: #F14E23;}
@@ -172,7 +172,7 @@ ul#menu li a:hover
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 0;
-  background: #fff;
+  background: #ccc;
   border: 1px solid #E7E7E7;} 
 
 #sidebar_container
